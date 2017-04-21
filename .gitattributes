@@ -1,0 +1,5 @@
+build/release/Qt5Core.dll filter=lfs diff=lfs merge=lfs -text
+build/release/Qt5Gui.dll filter=lfs diff=lfs merge=lfs -text
+build/release/Qt5Widgets.dll filter=lfs diff=lfs merge=lfs -text
+build/release/platforms/qwindows.dll filter=lfs diff=lfs merge=lfs -text
+build/release/libstdc++-6.dll filter=lfs diff=lfs merge=lfs -text
